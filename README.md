@@ -170,16 +170,18 @@ admin password : admin123
 
 
 #### Screenshots (Add at least 3)
+it is the interface after opening ,it shows two dashbaords as users and authorities logins
+<img width="1920" height="1080" alt="Screenshot (81)" src="https://github.com/user-attachments/assets/48e7ba69-401d-4ea9-b24d-cd094362bc32" />
 
-<img width="1920" height="1080" alt="Screenshot (81)" src="https://github.com/user-attachments/assets/abad436f-5720-4e33-8c79-6fcedc8aa35f" />
+
 it is the interface after we logged into user login
 
-![Screenshot2](Add screenshot 2 here with proper name)
-<img width="1920" height="1080" alt="Screenshot (78)" src="https://github.com/user-attachments/assets/ff7525b3-918d-4685-a2ad-e91dfda19ede" />
+
+<img width="1920" height="1080" alt="Screenshot (76)" src="https://github.com/user-attachments/assets/77b94457-28a6-4b09-be34-423607c4511b" />
+
 it shows the main recycling centers near the user's location or the given location
-![Screenshot3](Add screenshot 3 here with proper name)
-<img width="1920" height="1080" alt="Screenshot (75)" src="https://github.com/user-attachments/assets/7536eca8-2815-4e05-8224-6df3cd756aaa" />
-it is the interface after opening,it gives the main two dashboards for usesr and authorities
+
+<img width="1920" height="1080" alt="Screenshot (82)" src="https://github.com/user-attachments/assets/6251cea9-83b6-46f2-882c-4f606fd89337" />
 
 #### Diagrams
 
