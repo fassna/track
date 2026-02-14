@@ -276,7 +276,6 @@ https://github.com/user-attachments/assets/93dd2691-ffea-49de-ae94-54451205aca8
 If you used AI tools during development, document them here for transparency:
 
 
-https://github.com/user-attachments/assets/d15734b1-de82-4b90-8edd-965714e983bb
 
 
 **Tool Used:** git,github,VS code
